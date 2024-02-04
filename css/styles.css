@@ -1,0 +1,8 @@
+.bg-box {
+  height: 100vh;
+  background-image: url(../img/house.jpg), url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru), url(../img/lamp.png), url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png), url(../img/greengrase.png) ;
+  background-repeat: no-repeat, repeat-y, repeat-x, repeat-y, repeat-x;
+  background-position: center, left, top, right, bottom;
+  background-size: auto, 60px, 60px, 60px, 300px;
+  background-color: green;
+}
